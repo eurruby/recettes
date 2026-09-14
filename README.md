@@ -28,7 +28,10 @@
 [Sauté de kimchi et nouilles udon](SauteKimchiNouillesUdon.md)  
 [Bolognaise de lentilles](BolognaiseLentilles.md)  
 ## Viandes
+[Côte de bœuf](CoteBoeuf.md)  
 [Poulet tandori](PouletTandori.md)  
+[Poulet mafé](PouletMafe.md)  
+[Poulet soumbala](PouletSoumbala.md)  
 ## Poissons
 [Salade de harengs](SaladeHarengs)  
 [Accras de morue](AccrasMorue.md)  
