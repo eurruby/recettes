@@ -1,4 +1,4 @@
-## Pâte brisée à l'huile d'olive 
+## Pâte brisée à l'huile d'olive
 * 200g de farine de blé
 * 100g de farine de sarrasin
 * 10cl d'eau
