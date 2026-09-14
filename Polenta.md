@@ -1,6 +1,6 @@
 ## Polenta
-* 1 polenta
-* 3,5 lait/eau
+* 1 capoc polenta
+* 3,5 capocs lait/eau
 * muscade
 * sel+poivre
 * 1 noix de beurre
