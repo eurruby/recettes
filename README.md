@@ -14,15 +14,23 @@
 [Gratin de chou-fleur](GratinChouFleur.md)  
 [Crozets](Crozets.md)  
 [Polenta au four](PolentaFour.md)  
-[Cake salé](CakeSale.md)  
+[Cake salé](CakeSale.md) 
+[Pâté créole](PateCreole.md)  
 [Gougères](Gougeres.md)  
-## Fritures 🍤
+## Apéro et fritures 🥂🍤
 [Pâte à beignets](PateBeignets.md)  
 [Accras de morue](AccrasMorue.md)  
+[Bonbons piment](BonbonsPiment.md)  
 [Boreks](Boreks.md)  
+[Pâté créole](PateCreole.md)  
+[Gougères](Gougeres.md)  
+[Pistou de fanes de radis](PistouFanesRadis.md)  
 ## Pasta 🍝
 [Bolognaise de lentilles](BolognaiseLentilles.md)  
 [Saucisses italiennes pâtes brocolis](SaucissesItaliennesPatesBrocolis.md)  
+[Spaghetti al limone](SpaghettiLimone.md)  
+[Tagliatelles à l'oseille](SpaghettiLimone.md) 
+[Linguines aux couteaux](LinguinesCouteaux.md)   
 [Crozets](Crozets.md)  
 ## Féculents et légumes 🍆
 [Semoule](Semoule.md)  
@@ -31,6 +39,8 @@
 [Champignons de Paris à la crème](ChampignonsParisCreme.md)  
 [Épinards à l'algérienne](EpinardsAlgerienne.md)  
 [Dahl lentilles corail-épinards](DahlLentillesCorailEpinards.md)  
+[Navets sautés à l'indienne](NavetsSautesIndienne.md)  
+[Kimchi](Kimchi.md)  
 [Sauté de kimchi et nouilles udon](SauteKimchiNouillesUdon.md)  
 [Soupe pak shoï](SoupePakShoi.md)  
 [Bolognaise de lentilles](BolognaiseLentilles.md)  
@@ -60,11 +70,6 @@
 [Salade tomates mozza basilic](SaladeTomatesMozzaBasilic.md)  
 [Salade crevettes avocat](SaladeCrevettesAvocat.md)  
 [Melon fêta](MelonFeta.md)  
-## Apéro 🥂
-[Gougères](Gougeres.md)  
-[Accras de morue](AccrasMorue.md)  
-[Pistou de fanes de radis](PistouFanesRadis.md)  
-[Pâté créole](PateCreole.md)  
 ## Sauces 🌶️
 [Rougail tomate](RougailTomate.md)  
 [Rougail dakatine](RougailDakatine.md)  

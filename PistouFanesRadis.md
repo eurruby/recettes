@@ -4,3 +4,6 @@
 * pignons/pistaches/noix de cajou
 * fanes de radis
 * huile d’olive
+
+1. mixer
+1. servir avec les radis et tranches de pain toastées
