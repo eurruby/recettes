@@ -14,10 +14,10 @@
 [Gratin de chou-fleur](GratinChouFleur.md)  
 [Crozets](Crozets.md)  
 [Polenta au four](PolentaFour.md)  
-[Cake salé](CakeSale.md) 
+[Cake salé](CakeSale.md)  
 [Pâté créole](PateCreole.md)  
 [Gougères](Gougeres.md)  
-## Apéro et fritures 🥂🍤
+## Apéro et fritures 🍤
 [Pâte à beignets](PateBeignets.md)  
 [Accras de morue](AccrasMorue.md)  
 [Bonbons piment](BonbonsPiment.md)  
@@ -27,21 +27,21 @@
 [Pistou de fanes de radis](PistouFanesRadis.md)  
 ## Pasta 🍝
 [Bolognaise de lentilles](BolognaiseLentilles.md)  
-[Saucisses italiennes pâtes brocolis](SaucissesItaliennesPatesBrocolis.md)  
+[Saucisses pâtes brocolis](SaucissesPatesBrocolis.md)  
 [Spaghetti al limone](SpaghettiLimone.md)  
-[Tagliatelles à l'oseille](SpaghettiLimone.md) 
-[Linguines aux couteaux](LinguinesCouteaux.md)   
+[Tagliatelles à l'oseille](SpaghettiLimone.md)  
+[Linguines aux couteaux](LinguinesCouteaux.md)  
 [Crozets](Crozets.md)  
 ## Féculents et légumes 🍆
 [Semoule](Semoule.md)  
 [Polenta](Polenta.md)  
 [Flan de légumes](FlanLegumes.md)  
-[Champignons de Paris à la crème](ChampignonsParisCreme.md)  
+[Champignons à la crème](ChampignonsCreme.md)  
 [Épinards à l'algérienne](EpinardsAlgerienne.md)  
 [Dahl lentilles corail-épinards](DahlLentillesCorailEpinards.md)  
 [Navets sautés à l'indienne](NavetsSautesIndienne.md)  
 [Kimchi](Kimchi.md)  
-[Sauté de kimchi et nouilles udon](SauteKimchiNouillesUdon.md)  
+[Sauté de kimchi et udon](SauteKimchiUdon.md)  
 [Soupe pak shoï](SoupePakShoi.md)  
 [Bolognaise de lentilles](BolognaiseLentilles.md)  
 ## Viandes 🥩
@@ -52,7 +52,7 @@
 [Poulet curry rouge](PouletCurryRouge.md)  
 [Poulet soumbala](PouletSoumbala.md)  
 [Rougail saucisses](RougailSaucisses.md)  
-[Saucisses italiennes pâtes brocolis](SaucissesItaliennesPatesBrocolis.md)  
+[Saucisses pâtes brocolis](SaucissesPatesBrocolis.md)  
 [Loubia](Loubia.md)  
 [Couscous](Couscous.md)  
 ## Poissons 🐟
