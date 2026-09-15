@@ -9,3 +9,8 @@
 * 2 tomates
 * combava
 * persil
+
+### Variante poulet
+* ~~bichik~~
+* ~~combava~~
+* poulet

@@ -43,6 +43,8 @@
 [Poulet soumbala](PouletSoumbala.md)  
 [Rougail saucisses](RougailSaucisses.md)  
 [Saucisses italiennes pâtes brocolis](SaucissesItaliennesPatesBrocolis.md)  
+[Loubia](Loubia.md)  
+[Couscous](Couscous.md)  
 ## Poissons 🐟
 [Salade de harengs](SaladeHarengs)  
 [Accras de morue](AccrasMorue.md)  
@@ -55,5 +57,23 @@
 ## Salades 🥗
 [Salade de harengs](SaladeHarengs.md)  
 [Salade de pois chiches](SaladePoisChiches.md)  
+[Salade tomates mozza basilic](SaladeTomatesMozzaBasilic.md)  
+[Salade crevettes avocat](SaladeCrevettesAvocat.md)  
+[Melon fêta](MelonFeta.md)  
+## Apéro 🥂
+[Gougères](Gougeres.md)  
+[Accras de morue](AccrasMorue.md)  
+[Pistou de fanes de radis](PistouFanesRadis.md)  
+[Pâté créole](PateCreole.md)  
 ## Sauces 🌶️
+[Rougail tomate](RougailTomate.md)  
+[Rougail dakatine](RougailDakatine.md)  
+[Rougail mangue](RougailMangue.md)  
+[Sauce tahini](SauceTahini.md)  
 ## Desserts 🧁
+[Crèpes](Crepes.md)  
+[Fiadone](Fiadone.md)  
+[Flan aux œufs](FlanOeufs.md)  
+[Gâteau banane](GateauBanane.md)  
+[Cake à l'orange](CakeOorange.md)  
+[Marbré au chocolat](MarbreChocolat.md)  
