@@ -20,6 +20,6 @@
 1. verser le lait de coco et environ 20 cl d'eau (pour bien immerger les lentilles)
 1. saundrer de piment d'Espelette et de sel
 1. laisser mijoter à feu doux pendant 20 minutes
-1. incorporer les épinards et laissez-les fondre 1 minute
+1. incorporer les épinards et les laisser fondre 1 minute
 1. servir chaud avec un filet d'huile pimentée, un jus de citron vert et la coriandre fraîche
 1. accompagner le tout de riz basmati ou de naans
