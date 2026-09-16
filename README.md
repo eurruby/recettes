@@ -25,6 +25,7 @@
 [Pâté créole](PateCreole.md)  
 [Gougères](Gougeres.md)  
 [Pistou de fanes de radis](PistouFanesRadis.md)  
+[Achards de légumes](AchardsLegumes.md)  
 ## Pasta 🍝
 [Bolognaise de lentilles](BolognaiseLentilles.md)  
 [Saucisses pâtes brocolis](SaucissesPatesBrocolis.md)  
@@ -44,6 +45,7 @@
 [Sauté de kimchi et udon](SauteKimchiUdon.md)  
 [Soupe pak shoï](SoupePakShoi.md)  
 [Bolognaise de lentilles](BolognaiseLentilles.md)  
+[Riste d’aubergines](RisteAubergines.md)  
 ## Viandes 🥩
 [Côte de bœuf](CoteBoeuf.md)  
 [Porc au caramel](PorcCaramel.md)  

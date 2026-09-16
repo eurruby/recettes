@@ -9,6 +9,6 @@
 
 1. cuire les crozets 15 min dans l'eau bouillante salée
 1. faire revenir l'oignon et les lardons
-1. mélanger les crozet, les lardons, l'oignon, la moitié du reblochon et la crème fraîche
+1. mélanger les crozets, les lardons, l'oignon, la moitié du reblochon et la crème fraîche
 1. verser les crozets dans un plat à gratin et répartir le reblochon restants sur le dessus
 1. faire gratiner 5 à 10 min à four chaud (180°C)
