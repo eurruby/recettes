@@ -19,6 +19,7 @@
 [Gougères](Gougeres.md)  
 ## Apéro et fritures 🍤
 [Pâte à beignets](PateBeignets.md)  
+[Croquettes petits pois feta zaatar](CroquettesPetitsPoisFetaZaatar.md)  
 [Accras de morue](AccrasMorue.md)  
 [Bonbons piment](BonbonsPiment.md)  
 [Boreks](Boreks.md)  
@@ -39,6 +40,7 @@
 [Flan de légumes](FlanLegumes.md)  
 [Champignons à la crème](ChampignonsCreme.md)  
 [Épinards à l'algérienne](EpinardsAlgerienne.md)  
+[Croquettes petits pois feta zaatar](CroquettesPetitsPoisFetaZaatar.md)  
 [Dahl lentilles corail-épinards](DahlLentillesCorailEpinards.md)  
 [Navets sautés à l'indienne](NavetsSautesIndienne.md)  
 [Kimchi](Kimchi.md)  
@@ -55,6 +57,7 @@
 [Porc au caramel](PorcCaramel.md)  
 [Poulet tandori](PouletTandori.md)  
 [Poulet mafé](PouletMafe.md)  
+[Dja](Dja.md)  
 [Poulet curry rouge](PouletCurryRouge.md)  
 [Poulet soumbala](PouletSoumbala.md)  
 [Rougail saucisses](RougailSaucisses.md)  
