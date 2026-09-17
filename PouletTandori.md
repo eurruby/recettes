@@ -1,7 +1,7 @@
 ## Poulet tandori
-* 150g de blancs de poulet
+* 4 cuisses de poulet
 * zeste et jus de citron vert
-* 1 cc. de carri
+* 1 cs de curry rouge ou vert
 * 10g de gingembre rapé
 * 1 ail
 * 1 branche de menthe

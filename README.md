@@ -58,6 +58,7 @@
 [Poulet curry rouge](PouletCurryRouge.md)  
 [Poulet soumbala](PouletSoumbala.md)  
 [Rougail saucisses](RougailSaucisses.md)  
+[Rav'tout'](Ravtout.md)  
 [Saucisses pâtes brocolis](SaucissesPatesBrocolis.md)  
 ## Poissons 🐟
 [Salade de harengs](SaladeHarengs)  
