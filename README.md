@@ -44,10 +44,14 @@
 [Kimchi](Kimchi.md)  
 [Sauté de kimchi et udon](SauteKimchiUdon.md)  
 [Soupe pak shoï](SoupePakShoi.md)  
+[Nouilles soba curry vert](NouillesSobaCurryVert.md)  
 [Bolognaise de lentilles](BolognaiseLentilles.md)  
 [Riste d’aubergines](RisteAubergines.md)  
 ## Viandes 🥩
 [Côte de bœuf](CoteBoeuf.md)  
+[Boulettes au fenouil](BoulettesFenouil.md)  
+[Couscous](Couscous.md)  
+[Loubia](Loubia.md)  
 [Porc au caramel](PorcCaramel.md)  
 [Poulet tandori](PouletTandori.md)  
 [Poulet mafé](PouletMafe.md)  
@@ -55,8 +59,6 @@
 [Poulet soumbala](PouletSoumbala.md)  
 [Rougail saucisses](RougailSaucisses.md)  
 [Saucisses pâtes brocolis](SaucissesPatesBrocolis.md)  
-[Loubia](Loubia.md)  
-[Couscous](Couscous.md)  
 ## Poissons 🐟
 [Salade de harengs](SaladeHarengs)  
 [Accras de morue](AccrasMorue.md)  

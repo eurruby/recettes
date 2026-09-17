@@ -10,9 +10,9 @@
 * 1 trait de vinaigre balsamique
 * huile d’olive, sel, poivre
 
-* faire dégorger les dés d’aubergines au gros sel (+30 min)
-* faire revenir les oignons, les lamelles de poivrons, le gingembre et l’ail (10 min).
-* rincer les aubergines et les presser, les ajouter dans la sauteuse
-* faire revenir jusqu’à ce qu’elles soient bien rissolées en remuant souvent (15 min)
-* verser la tomate et le concentré, la coriandre (en réserver une poignée) et le vinaigre
-* couvrir et attendre que tout soit bien cuit (50 min)
+1. faire dégorger les dés d’aubergines au gros sel (+30 min)
+1. faire revenir les oignons, les lamelles de poivrons, le gingembre et l’ail (10 min).
+1. rincer les aubergines et les presser, les ajouter dans la sauteuse
+1. faire revenir jusqu’à ce qu’elles soient bien rissolées en remuant souvent (15 min)
+1. verser la tomate et le concentré, la coriandre (en réserver une poignée) et le vinaigre
+1. couvrir et attendre que tout soit bien cuit (50 min)
