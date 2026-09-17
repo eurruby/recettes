@@ -1,4 +1,4 @@
-## Croquettes petits pois feta zaatar
+## Beignets petits pois feta
 * 500g de petits pois surgelés
 * 120g de ricotta
 * 3 œufs
@@ -11,7 +11,7 @@
 * 800ml d'huile
 * sel+poivre
 
-1. mixez grossièrement les petits pois
+1. mixer grossièrement les petits pois
 1. ajouter la ricotta, les ceufs, le zeste de citron, sel et poivre
 1. mélanger bien, puis ajoutez le zaatar, la farine et la levure chimique
 1. mélanger juste assez pour obtenir un appareil homogène

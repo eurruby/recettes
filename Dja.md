@@ -10,6 +10,7 @@
 * 1⁄2 cc de sucre
 * 2 feuilles de laurier
 * sel
+* (haricots rouges)
 
 1. mixer le gingembre, l'ail, les crevettes, le poivre, le piment et une pointe d'eau
 1. mixer l'oignon, réserver
@@ -19,4 +20,5 @@
 1. baisser le feu, rectifier l'assaisonnement et poursuivez la cuisson
 1. ajouter les feuilles de laurier au bout de 10 min
 1. remuer régulièrement, en contrôlant l'intensité du feu
+1. (ajouter les haricots rouges)
 1. c'est prêt lorsque la texture de la tomate est épaisse et que sa couleur est d'un beau rouge foncé, compter une bonne heure de cuisson

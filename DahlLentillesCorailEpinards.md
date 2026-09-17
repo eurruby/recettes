@@ -1,4 +1,4 @@
-## Dahl lentilles corail-épinards
+## Dahl lentilles corail épinards
 * 250g de lentilles corail 
 * 1 gousse d’ail
 * 1 oignon jaune
